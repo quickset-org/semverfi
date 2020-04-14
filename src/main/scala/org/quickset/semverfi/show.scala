@@ -1,4 +1,4 @@
-package semverfi
+package org.quickset.semverfi
 
 trait Show[T <: SemVersion] {
   def show(v: T): String

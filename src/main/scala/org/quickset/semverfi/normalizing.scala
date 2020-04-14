@@ -1,4 +1,4 @@
-package semverfi
+package org.quickset.semverfi
 
 /**
  * Provides a means to render a normal

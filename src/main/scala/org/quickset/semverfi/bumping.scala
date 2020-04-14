@@ -1,4 +1,4 @@
-package semverfi
+package org.quickset.semverfi
 
 sealed trait Digit
 case object Major extends Digit {

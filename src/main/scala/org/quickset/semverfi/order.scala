@@ -1,4 +1,4 @@
-package semverfi
+package org.quickset.semverfi
 
 trait SemVersionOrdering extends Ordered[SemVersion] {
 

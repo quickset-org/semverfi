@@ -1,4 +1,4 @@
-package semverfi
+package org.quickset.semverfi
 
 import org.specs2.mutable._
 

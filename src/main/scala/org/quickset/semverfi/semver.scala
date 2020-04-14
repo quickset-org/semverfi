@@ -1,4 +1,4 @@
-package semverfi
+package org.quickset.semverfi
 
 object Version {
   def apply(in: String) = Parse(in)

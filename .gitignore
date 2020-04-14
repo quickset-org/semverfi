@@ -9,3 +9,6 @@ sbt
 .settings
 *.sjsir
 *.class
+project/target
+.metals
+.bloop

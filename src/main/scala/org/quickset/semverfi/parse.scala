@@ -1,6 +1,9 @@
-package semverfi
+package org.quickset.semverfi
 
 import scala.util.parsing.combinator.RegexParsers
+
+https://gist.github.com/MasseGuillaume/a68ad153f063956f48eedd5046483916
+
 
 class Parse extends RegexParsers {
 
